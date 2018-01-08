@@ -6,10 +6,11 @@ one item at a time, using the ACCUMULATOR pattern.
 
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
          their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+"""  # done: 1. PUT YOUR NAME IN THE ABOVE LINE.
+
 
 # ----------------------------------------------------------------------
-# TODO: 2. READ the program below and RUN it.
+# done: 2. READ the program below and RUN it.
 #
 #   When you have read it, asking questions as needed,
 #   and you feel that you understand,
